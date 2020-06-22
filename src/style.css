@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+form {
+  padding: 20px;
+}
+
+form input {
+  margin-bottom: 10px;
+  width: 100%;
+  display: block;
+}
+
+.customer-list {
+  padding: 20px;
+}
